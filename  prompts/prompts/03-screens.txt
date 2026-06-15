@@ -1,0 +1,32 @@
+Using the design system and reusable components already created, build static SwiftUI screen shells for the Pantry app.
+
+Build:
+- WelcomeView
+- GoalsOnboardingView
+- DietOnboardingView
+- CookingConfidenceView
+- HouseholdSizeView
+- AvoidDislikesView
+- AuthView
+- HomeView
+- ScanView
+- IngredientReviewView
+- RecipeResultsView
+- RecipeDetailView
+- SavedView
+- GroceryView
+- ProfileView
+
+Requirements:
+- Static mock data only
+- No backend integration yet
+- No real camera implementation yet
+- No complex transitions yet
+- Every screen should be previewable
+
+Before coding:
+1. group screens into logical folders
+2. list the files to create
+3. explain the order of implementation
+
+Then implement the screens in batches.
