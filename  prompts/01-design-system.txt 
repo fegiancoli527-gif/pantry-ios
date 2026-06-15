@@ -1,0 +1,34 @@
+Read `references/pantry-ui-spec.md` and use it as the visual source of truth.
+
+Build the UI foundation for a native SwiftUI iPhone app called Pantry.
+
+Priorities:
+1. Build the shared design system first
+2. Build reusable components second
+3. Build screen shells third
+4. Add realistic interactions and polish after the structure is complete
+
+Implementation requirements:
+- Native SwiftUI only
+- iPhone-first only
+- No web tech
+- Use system serif for headings and SF Pro for UI/body
+- Centralize colors, spacing, corner radius, and shadows into reusable theme files
+
+Create a clean folder/file structure and implement the design system layer first:
+- Palette.swift
+- Typography.swift
+- Spacing.swift
+- Corners.swift
+- Shadows.swift
+
+Also create:
+- a simple root view that confirms the design system is loaded
+- SwiftUI previews where appropriate
+
+Before coding:
+1. summarize the design system
+2. propose the folder/file structure
+3. explain the implementation order
+
+Then implement.
